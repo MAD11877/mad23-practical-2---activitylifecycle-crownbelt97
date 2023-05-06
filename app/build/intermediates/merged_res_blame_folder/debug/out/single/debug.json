@@ -8,8 +8,8 @@
         "source": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-main-26:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "sg.edu.np.mad.madpractical.app-merged_res-24:/layout_activity_main.xml.flat",
-        "source": "sg.edu.np.mad.madpractical.app-main-26:/layout/activity_main.xml"
+        "merged": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-merged_res-24:/layout_fragment_blank.xml.flat",
+        "source": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-main-26:/layout/fragment_blank.xml"
     },
     {
         "merged": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-merged_res-24:/drawable_ic_launcher_background.xml.flat",
@@ -56,8 +56,20 @@
         "source": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-main-26:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
+        "merged": "sg.edu.np.mad.madpractical.app-merged_res-24:/layout_activity_message_group.xml.flat",
+        "source": "sg.edu.np.mad.madpractical.app-main-26:/layout/activity_message_group.xml"
+    },
+    {
+        "merged": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-merged_res-24:/layout_activity_list.xml.flat",
+        "source": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-main-26:/layout/activity_list.xml"
+    },
+    {
         "merged": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-merged_res-24:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-main-26:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-merged_res-24:/layout_activity_message_group.xml.flat",
+        "source": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-main-26:/layout/activity_message_group.xml"
     },
     {
         "merged": "/Users/jeremy/.gradle/daemon/8.0/sg.edu.np.mad.madpractical.app-merged_res-24:/layout_activity_main.xml.flat",
